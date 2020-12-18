@@ -1,0 +1,83 @@
+#con1{
+    top: auto;
+    margin-top: auto;
+    float: left;
+    background-color:#fff;
+    width: 300px;
+    height: 300px;
+}
+
+.btuno{
+    top: auto;
+    margin-top: 10px;
+    border-radius: 100%;
+    border-color: rgb(255, 81, 0);
+    height: 200px;
+    width: 200px;
+    background-image: url(https://international-experience.es/wp-content/uploads/2019/08/comidas-mundo.jpg);
+}
+
+h1{
+    top: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    text-align: center;
+}
+
+#con2{
+    top: auto;
+    margin-top: auto;
+    float: left;
+    margin-top: auto;
+    background-color:#fff;
+    width: 300px;
+    height: 300px;
+}
+
+.btdos{
+    top: auto;
+    margin-top: 10px;
+    border-radius: 100%;
+    border-color: rgb(255, 81, 0);
+    height: 200px;
+    width: 200px;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoYAYK3yNKPkRqGQDKUmr8HVCFxPgjb7nQiQ&usqp=CAU);
+}
+
+#con3{
+    top: 300px;
+    float: left;
+    margin-top: auto;
+    background-color:#fff;
+    width: 300px;
+    height: 300px;
+}
+
+.btres{
+    top: auto;
+    margin-top: 10px;
+    border-radius: 100%;
+    border-color: rgb(255, 81, 0);
+    height: 200px;
+    width: 200px;
+    background-image: url(https://i.blogs.es/cc8179/ropa/450_1000.jpeg);
+}
+
+#con4{
+    top: auto;
+   float: left;
+    margin-top: auto;
+    background-color:#fff;
+    width: 300px;
+    height: 300px;
+}
+
+.btcuatro{
+    top: auto;
+    margin-top: 10px;
+    border-radius: 100%;
+    border-color: rgb(255, 81, 0);
+    height: 200px;
+    width: 200px;
+    background-image: url(https://m.dw.com/image/16857974_401.jpg);
+}
